@@ -5,7 +5,6 @@ How to run:
 
 
 A. go to ./src directory
-
 B. save your twitter key/access_token in file "twitter.cfg"
 
 
