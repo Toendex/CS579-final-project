@@ -1,8 +1,6 @@
 CS579-final-project
 ===================
 
-See "How_to_run.txt"
-
 How to run:
 
 
@@ -17,6 +15,7 @@ Data collection:
         A. run "./stream_dataCollection.sh"
         B. data will be saved in ./stream_data/
         C. Output infomation will be saved in ./dcout.txt
+        
     B. Rest API:
         A. run "./stream_dataCollection.sh"
         B. data will be saved in ./rest_data/
