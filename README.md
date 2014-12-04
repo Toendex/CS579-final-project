@@ -3,7 +3,8 @@ CS579-final-project
 
 How to run:
 
-save your twitter key/access_token in file "twitter.cfg"
+A. go to ./src directory
+B. save your twitter key/access_token in file "twitter.cfg"
 
 Data collection:
     A. Stream API:
